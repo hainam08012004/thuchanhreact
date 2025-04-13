@@ -1,0 +1,19 @@
+.userList-container {
+    padding: 2rem;
+    background-color: #f4f6f8;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 250px;
+}
+
+.userList-container .MuiListItemText-root {
+    font-size: 1.1rem;
+}
+
+.userList-container .MuiListItem-root {
+    margin-bottom: 1rem;
+}
+
+.userList-container a {
+    text-decoration: none;
+}

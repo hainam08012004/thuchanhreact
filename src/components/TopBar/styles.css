@@ -1,0 +1,14 @@
+.topbar-appBar {
+  margin-bottom: 1rem;
+  background-color: #1976d2;  /* Màu xanh của MUI AppBar */
+}
+
+.topbar-appBar .MuiTypography-root {
+  color: white;
+}
+
+.topbar-appBar .MuiToolbar-root {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2rem; /* Tạo khoảng cách trái phải */
+}
